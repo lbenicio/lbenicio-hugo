@@ -1,0 +1,18 @@
+languageCode = 'en-us'
+title = "lbenicio"
+contentdir = "content"
+baseURL = "https://lbenicio.dev"
+theme = "lbenicio-minimal"
+
+[params]
+    description = "Leonardo Benicio personal blog"
+    home = "/"
+    blog = "https://blog.lbenicio.dev"
+    email = "hello@lbenicio.dev"
+    github = "lbenicio"
+    twitter = "lbenicio_"
+    linkedin = "leonardo-benicio-1a55a1ba"
+    mastodon = "lbenicio"
+    keybase = "lbenicio"
+    reddit = "lbenicio_"
+    
